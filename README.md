@@ -28,8 +28,8 @@ This Go project provides a simple API for managing bank accounts. The project in
 
 ### Install Dependencies
 
-1. Make sure you have Go installed on your machine.
-2. Make sure you have MongoDB installed and running on your machine.
+1. Make sure you have [Go](https://go.dev/doc/install) installed on your machine.
+2. Make sure you have [MongoDB](https://www.mongodb.com/) installed and running on your machine.
 3. Install the necessary dependencies using:
 
    ```bash
